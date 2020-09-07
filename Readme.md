@@ -1,8 +1,10 @@
-Code for project 2.
-Programing language:  Python.
-Machine-learning library: Keras.
+Sexual Harrasment Detection projeect
 
-All the codes/scripts are in the code folder.
-For more details please check the report.
+Contributors
+Abhigya Koirala
+Pedram Khoshnevis
+Shreya Reddy
+
+Check report pdf for more details
 
 
